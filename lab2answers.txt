@@ -1,0 +1,15 @@
+Part 1
+Q1 
+	a.x is 2
+	b.x is 3
+	c. x is 1
+	d. z is 7
+
+Q2      
+	a. y=6
+        b. y=1
+
+Q3 2,4,6,8,10 and it will run 10 times
+
+Q4 outputs nothing
+		
